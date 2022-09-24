@@ -1,0 +1,3 @@
+/Users/bek/Desktop/CS_210/chadaTechProject/cmake-build-debug/CMakeFiles/chadaTechProject.dir
+/Users/bek/Desktop/CS_210/chadaTechProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bek/Desktop/CS_210/chadaTechProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
