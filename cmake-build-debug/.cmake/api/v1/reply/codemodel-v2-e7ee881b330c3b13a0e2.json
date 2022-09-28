@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chadaTechProject",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chadaTechProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chadaTechProject-Debug-0cc4591d12449d86d51f.json",
+					"name" : "chadaTechProject",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bekjoh/Library/Mobile Documents/com~apple~CloudDocs/MyDesktop/CS_210/chadaTechProject/cmake-build-debug",
+		"source" : "/Users/bekjoh/Library/Mobile Documents/com~apple~CloudDocs/MyDesktop/CS_210/chadaTechProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
